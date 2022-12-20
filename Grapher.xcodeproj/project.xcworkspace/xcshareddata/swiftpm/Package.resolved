@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "ddmathparser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/davedelong/DDMathParser.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6f5bd1281216200dfb96998836fcb35ef7cd024e"
+      }
+    },
+    {
+      "identity" : "pinlayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/layoutBox/PinLayout",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f69f2506ee97977836c7a8a1ca7b5d4634bb7f36"
+      }
+    }
+  ],
+  "version" : 2
+}
