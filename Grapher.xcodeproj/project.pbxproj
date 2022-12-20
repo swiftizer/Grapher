@@ -25,8 +25,6 @@
 		B3C914A2293C343000779E73 /* CoordinatesNet.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C914A1293C343000779E73 /* CoordinatesNet.swift */; };
 		B3C914A8294297F400779E73 /* NewLightTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C914A7294297F400779E73 /* NewLightTableViewCell.swift */; };
 		B3C914AA2942982E00779E73 /* AddTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C914A92942982E00779E73 /* AddTableViewCell.swift */; };
-		B3C914AC29429A1F00779E73 /* Z-buffer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C914AB29429A1F00779E73 /* Z-buffer.swift */; };
-		B3C914AE2942AE6C00779E73 /* Shading.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C914AD2942AE6C00779E73 /* Shading.swift */; };
 		B3C914B0294408F100779E73 /* HistoryVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C914AF294408F100779E73 /* HistoryVC.swift */; };
 		B3C914B22944264900779E73 /* UserDefaults+UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C914B12944264900779E73 /* UserDefaults+UIColor.swift */; };
 /* End PBXBuildFile section */
@@ -52,8 +50,6 @@
 		B3C914A1293C343000779E73 /* CoordinatesNet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinatesNet.swift; sourceTree = "<group>"; };
 		B3C914A7294297F400779E73 /* NewLightTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewLightTableViewCell.swift; sourceTree = "<group>"; };
 		B3C914A92942982E00779E73 /* AddTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTableViewCell.swift; sourceTree = "<group>"; };
-		B3C914AB29429A1F00779E73 /* Z-buffer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Z-buffer.swift"; sourceTree = "<group>"; };
-		B3C914AD2942AE6C00779E73 /* Shading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shading.swift; sourceTree = "<group>"; };
 		B3C914AF294408F100779E73 /* HistoryVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryVC.swift; sourceTree = "<group>"; };
 		B3C914B12944264900779E73 /* UserDefaults+UIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UserDefaults+UIColor.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -113,8 +109,6 @@
 				B3C914A1293C343000779E73 /* CoordinatesNet.swift */,
 				B3C914A7294297F400779E73 /* NewLightTableViewCell.swift */,
 				B3C914A92942982E00779E73 /* AddTableViewCell.swift */,
-				B3C914AB29429A1F00779E73 /* Z-buffer.swift */,
-				B3C914AD2942AE6C00779E73 /* Shading.swift */,
 				B3C914AF294408F100779E73 /* HistoryVC.swift */,
 			);
 			path = Grapher;
@@ -242,7 +236,6 @@
 				B3C914A2293C343000779E73 /* CoordinatesNet.swift in Sources */,
 				B3C914B22944264900779E73 /* UserDefaults+UIColor.swift in Sources */,
 				B3C914AA2942982E00779E73 /* AddTableViewCell.swift in Sources */,
-				B3C914AC29429A1F00779E73 /* Z-buffer.swift in Sources */,
 				B3308319292FF6C4008802D4 /* Surface.swift in Sources */,
 				B3308322292FFDF7008802D4 /* UIView+effects.swift in Sources */,
 				B3C914B0294408F100779E73 /* HistoryVC.swift in Sources */,
@@ -251,7 +244,6 @@
 				B330831E292FFCF7008802D4 /* VC+TextField.swift in Sources */,
 				B330831C292FFCC0008802D4 /* APP+LifeCycle.swift in Sources */,
 				B3046BDB2925C14200B4D58A /* AppDelegate.swift in Sources */,
-				B3C914AE2942AE6C00779E73 /* Shading.swift in Sources */,
 				B3046BF9292AA53000B4D58A /* AlertManager.swift in Sources */,
 				B3046BDD2925C14200B4D58A /* SceneDelegate.swift in Sources */,
 				B3046BF52927314900B4D58A /* loadIndicator.swift in Sources */,
